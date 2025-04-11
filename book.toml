@@ -1,5 +1,4 @@
 [book]
 authors = ["Michael Lamparski"]
-multilingual = false
 src = "src"
 title = "Unsafe Gotchas"
